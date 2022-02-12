@@ -1,0 +1,2 @@
+git stash is like an internal memory in gt which allows you
+to keep unstaged and uncommited changes and go to work on other commit
